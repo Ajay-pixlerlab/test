@@ -14,6 +14,9 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
+    "APP_KEY_TEST"=>"base64:SyRZKjbinLZQe2hBPcJZYILn/yDfTdCJwNgFSs7Xa6o=",
+    "AWS_ACCESS_KEY"=>"AKIAVR535GC4QYNLY4AN",
+    "PASSWORD"=>"s3cr3tP@ssw0rd!",
 
     /*
     |--------------------------------------------------------------------------
